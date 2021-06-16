@@ -55,7 +55,7 @@ public class Hero extends CharacterAtribut {
 			xp -= xpTreshold;
 			lvl++;
 			xpTreshold = lvl * 40;
-			str += ;
+			//str += ;
 			System.out.println("Level up to level " + lvl + "!");
 			System.out.println("XP needed to level up: " + xpTreshold);
 			System.out.println("Your XP: " + xp + "\n");
